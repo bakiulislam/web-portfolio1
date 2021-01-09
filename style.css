@@ -8,10 +8,13 @@ h1{
 h2{
     font-size: 40px;
 }
+.name-highlight{
+    color: lightseagreen;
+}
 p{
     color: dimgray;
 }
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -37,4 +40,17 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700px;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    
 }
